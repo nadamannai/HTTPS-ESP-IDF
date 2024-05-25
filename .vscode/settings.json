@@ -1,0 +1,25 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.portWin": "COM4",
+  "idf.flashType": "UART",
+  "idf.adapterTargetName": "esp32",
+  "files.associations": {
+    "esp_camera.h": "c",
+    "sdmmc_host.h": "c",
+    "sdmmc_defs.h": "c",
+    "sdmmc_cmd.h": "c",
+    "esp_event.h": "c",
+    "esp_log.h": "c",
+    "esp_system.h": "c",
+    "nvs_flash.h": "c",
+    "param.h": "c",
+    "freertos.h": "c",
+    "task.h": "c",
+    "esp_vfs_fat.h": "c",
+    "i2c_master.h": "c",
+    "i2c_types.h": "c",
+    "gpio_types.h": "c",
+    "esp_err.h": "c",
+    "stdint.h": "c"
+  }
+}
