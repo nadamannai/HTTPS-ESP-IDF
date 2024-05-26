@@ -20,6 +20,7 @@
     "i2c_types.h": "c",
     "gpio_types.h": "c",
     "esp_err.h": "c",
-    "stdint.h": "c"
+    "stdint.h": "c",
+    "sdkconfig.h": "c"
   }
 }
